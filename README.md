@@ -1,0 +1,1 @@
+# simple-hostel-menu-card
